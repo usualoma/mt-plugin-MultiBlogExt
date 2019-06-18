@@ -9,9 +9,11 @@
 1. アーカイブファイルを展開してください。
 1. `plugins`ディレクトリをサーバーへアップロードしてください。
 
-    $MT_HOME/
-        plugins/
-            MultiBlogExt/
+```
+$MT_HOME/
+    plugins/
+        MultiBlogExt/
+```
 
 ## 設定方法
 
